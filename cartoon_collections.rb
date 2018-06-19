@@ -26,10 +26,11 @@ def long_planeteer_calls(array)
       i += 1
     end
 
-    if newArray.any? = true 
+    if newArray.any? = true
       return true
-    else 
+    else
       return false
+    end
 end
 
 def find_the_cheese# code an argument here
